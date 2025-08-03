@@ -1,4 +1,4 @@
-# 🚀 Challenge: Amigo Secreto
+![challenge-amigo-secreto_l](https://github.com/user-attachments/assets/a1aee51e-02fd-4b66-b2ab-6c3c79f4efa0)# 🚀 Challenge: Amigo Secreto
 
 > Un sitio web para organizar sorteos de `amigo secreto` entre amigos de manera sencilla y aleatoria.
 
@@ -13,7 +13,7 @@ Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista 
 
 ## 📸 Demo
 
-![Demo del sitio web](https://github.com/user-attachments/assets/fe90bf06-1024-491f-bc1d-6f32e3788e1d)
+![Demo del sitio web](https://github.com/user-attachments/assets/763187f6-f5cc-482b-89a1-d5aba0b3f0fe)
 
 [🔗 Probar el sitio](https://sly8057.github.io/challenge-amigo-secreto/) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repositorio](https://github.com/sly8057/challenge-amigo-secreto/)
 
